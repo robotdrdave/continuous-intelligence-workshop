@@ -1,10 +1,10 @@
-md5: c7467713ce4fe45cd9fc6cadf83658fe
+md5: 2692c55e29a626a493c842749b914483
 cmd: python src/splitter.py
 wdir: .
 deps:
 - md5: a269ea06e07424957949abb6172578f8
   path: data/raw/store47-2016.csv
-- md5: 59a4be513c2165242867265e7c5c454d
+- md5: 79d2af9c91f3aaecd0d72e92f99d21a1
   path: src/splitter.py
 outs:
 - md5: cd93b6020c635fbc703d692a0d5c3b4a
