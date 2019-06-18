@@ -1,4 +1,4 @@
 [core]
-remote = default
+remote = myremote
 ['remote "default"']
-url = gs://cd4ml-bucket-1
+url = ../data/temp_host
