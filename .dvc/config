@@ -1,4 +1,4 @@
 [core]
 remote = myremote
-['myremote "default"']
+['remote "myremote"']
 url = ../data/temp_host
