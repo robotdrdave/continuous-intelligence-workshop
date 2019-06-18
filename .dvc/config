@@ -1,4 +1,4 @@
 [core]
 remote = myremote
 ['remote "myremote"']
-url = ../data/temp_host
+url = /Users/robotdrdave/git/continuous-intelligence-workshop/data/temp_host
