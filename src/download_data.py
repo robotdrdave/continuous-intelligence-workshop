@@ -9,6 +9,7 @@ def load_data(path, key):
         os.makedirs(path)
 
     if not os.path.exists(os.path.join(path, key)):
+        print('getting data from google cloud')
         url = "https://storage.googleapis.com/%s/%s" % (gcsBucket, key)
         urllib.request.urlretrieve(url, os.path.join(path, key))
 
