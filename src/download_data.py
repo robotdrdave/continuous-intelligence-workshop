@@ -24,6 +24,7 @@ def main():
         load_data(path='data/decision_tree', key='model.pkl')
     else:
         print("Loading input data...")
+        print(os.getcwd())
         load_data(path='data/raw', key='store47-2016.csv')
     print("Finished downloading")
 
