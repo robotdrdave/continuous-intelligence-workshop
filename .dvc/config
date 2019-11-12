@@ -1,5 +1,5 @@
 [core]
-remote = myremote
+remote = default
 ['remote "myremote"']
 url = /Users/robotdrdave/git/continuous-intelligence-workshop/data/temp_host
 ['remote "default"']
