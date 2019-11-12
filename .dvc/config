@@ -2,3 +2,5 @@
 remote = myremote
 ['remote "myremote"']
 url = /Users/robotdrdave/git/continuous-intelligence-workshop/data/temp_host
+['remote "default"']
+url = gs://cd4ml-bucket-user1
